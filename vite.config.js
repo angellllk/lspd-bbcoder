@@ -8,7 +8,7 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
-  base: "/lspd-bbcoder/"
+  base: "/lspd-bbcoder/",
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
