@@ -621,6 +621,10 @@ button {
   margin-top: 10px;
 }
 
+#select {
+  width: 30vw;
+}
+
 h1 {
   color: rgb(226, 226, 226);
 }

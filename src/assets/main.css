@@ -1,5 +1,9 @@
 @import './base.css';
 
+body {
+  background-color: rgb(51, 51, 51);
+}
+
 #app {
   font-weight: normal;
   padding: 2rem;
